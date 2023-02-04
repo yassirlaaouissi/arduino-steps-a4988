@@ -2,7 +2,6 @@
 Code for controlling stepper motor 42byghw811 with a4988 controller. Note I set then steps to 20 degrees:
 ```
 #define STEPS 11
-
 ```
 Each step is approx 0.55 degrees. So 0.55 x 20 = 11 steps.
 Used arduino uno and this schematic.
